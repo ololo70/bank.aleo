@@ -1,3 +1,5 @@
+### Discord: ololo7
+
 <!-- # 🏦 Basic Bank -->
 
 A simple-interest yielding bank account in Leo.
